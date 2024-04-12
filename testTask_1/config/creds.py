@@ -1,0 +1,3 @@
+class Creds:
+    login = ''
+    password = ''
